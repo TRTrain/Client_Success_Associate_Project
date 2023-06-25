@@ -1,4 +1,4 @@
-# Client_Success_Associate_Project  📞🗣📳
+# Client Success Associate Project  📞🗣📳
 
 ## Business Objective 📍
 Understanding the revenue channels obtained through the relationship between agent activities and customer information in order to gain data insights
